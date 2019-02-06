@@ -21,5 +21,5 @@ The code in this repository is part of a project aimed at developing a system fo
 1. Clone or download this repository
 2. [Download](https://fasttext.cc/docs/en/pretrained-vectors.html) word embeddings for German language
 3. Create a new directory named "embeddings", unpack word embeddings and move the .vec-file in the new folder
-4. Run webscraping scripe
+4. Run webscraping script
 5. Run News Classifier
